@@ -13,7 +13,6 @@ public class Main
     public static void main(String[] args)
     {
 
-// LESSON 17 (46) - long exercise about functions
 
         //ex3
         greet();
